@@ -1,1 +1,62 @@
 
+body {
+  rozmiar czcionki : 1,5 em ;
+}
+.main {
+  wyświetlacz : siatka ;
+  szczelina siatki : 5 px ;
+  kolumny szablonu siatki : 1 fr  1 fr  1 fr  1 fr  1 fr ;
+  grid-template-rows : 1 fr  1 fr  1 fr  1 fr  1 fr  1 fr ;
+  wysokość : 100 vh ;
+  szerokość : 100 vw ;
+}
+.one {
+   
+  Siatka strefy : 1 / 1 / 4 / 4 ;
+  background-image : url ( https://github.com/mnke-j/my_html/blob/master/Gdynia/ilovegdynialogo.png?raw=true );   
+  rozmiar tła : zawierają ;
+  położenie tła : lewy górny  ;
+  }
+
+.link {
+  margines : 250 px ;
+  text-align : center ;
+  }
+
+.two {
+  Siatka strefy : 1 / 4 / 5 / 6 ;
+  background-image : url ( http://g7.forsal.pl/p/_wspolne/pliki/1777000/1777567-gdynia.jpg );
+  rozmiar tła : okładka ;
+  położenie tła : lewy górny  ;
+}
+.three {
+  Siatka strefy : 4 / 1 / 7 / 3 ;
+  background-image : url ( https://images.unsplash.com/photo-1513738883496-ab16da46fbe0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cb7158d294f59cf73b854a6165a8b8c8&auto=format&fit=crop&w=600&q=60 );
+  rozmiar tła : okładka ;
+ 
+}
+.four {
+  Siatka strefy : 4 / 3 / 5 / 4 ;
+  background-image : url ( https://images.unsplash.com/photo-1513569369873-3f6af50652bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4b1a9bd2a3a0641bf963f4c22fe80da&auto=format&fit=crop&w=600&q=60 );
+}
+.five {
+  Siatka strefy : 5 / 3 / 7 / 6 ;
+  background-image : url ( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEx09Y3Gtw2u7klsPxx9_kzgomSUdAIx35_YhZpPTPcDU-iMt );
+  rozmiar tła : okładka ;
+  położenie tła : lewy górny  ;
+}
+
+.main  >  div {
+  wyświetlacz : flex ;
+  flex-direction : kolumna ;
+  justify-content : center ;
+  text-align : center ;
+}
+@media  ekran  i ( maksymalna szerokość : 600 pikseli ) {
+  .main {
+    display : block ;
+  }
+  .main  >  div {
+    wysokość : 200 px ;
+  }
+}
