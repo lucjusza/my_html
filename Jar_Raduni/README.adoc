@@ -1,1 +1,94 @@
 
+= _NAD BRZEGIEM RADUNI !!!_      
+
+image::ilovegdynialogo.png[ilovegdynialogo,250]
+Rys.1. I Love Gdynia
+
+
+== Biuletyn Informacji Publicznej Urzędu Miasta Gdyni
+
+* [x] <http://gdynia.pl/bip>
+
+* [x] <http://www.gdynia.pl>
+
+* [x] e-mail: <http://umgdynia@gdynia.pl>
+
+
+== Powierzchnia
+
+POWIERZCHNIA ogółem - 13 514 ha.
+
+** Powierzchnia gruntów komunalnych wynosi 2 823,52 ha.
+
+** Poza granicami miasta znajduje się 26,2 ha.
+
+** Grunty Skarbu Państwa w użytkowaniu wieczystym wynoszą 7,76 ha.
+
+== Ludność Gdyni w liczbach  
+
+|===
+| Wyszczególnienie	|  na dzień 30 VI 2017
+| Ludność ogółem	| 246 643
+| mężczyźni | 116 517
+| kobiety | 130 126
+|===
+Tabela. 1. Ludność Gdyni
+
+
+== Dzielnice Gdyni
+[squere]
+.Renderowana lista nieuporządkowana z tytułem
+
+.  Babie Doły
+** 2 079 ludności
+*** 294 w wieku przedprodukcyjnym
+*** 1 349 w wieku przedprodukcyjnym
+*** 436 w wieku poprodukcyjnym
+
+. Chwarzno-Wiczlino
+
+. Chylonia
+
+. Cisowa
+
+. Dąbrowa
+
+. Działki Leśne
+
+. Grabówek
+
+. Kamienna Góra
+
+. Karwiny
+
+. Leszczynki
+
+. Mały Kack
+
+. Obłuże
+
+. Oksywie
+
+. Orłowo
+
+. Pogórze
+
+. Pustki Cisowskie-Demptowo
+
+. Redłowo
+
+. Śródmieście
+
+. Wielki Kack
+
+. Witomino Leśniczówka
+
+. Witomino Radiostacja
+
+. Wzgórze św. Maksymiliana
+
+== Logo miasta Gdynia:
+
+
+image::logo-Gdynia.jpg[logo-Gdynia,600]
+Rys.2. Logo Gdynia
