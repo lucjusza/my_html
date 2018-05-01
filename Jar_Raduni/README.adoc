@@ -1,22 +1,33 @@
 
 = _NAD BRZEGIEM RADUNI !!!_      
+** (W języku kaszubskim-  Reduniô.)
 
 image::sport.trojmiasto.pl/Zwawa-wedrowka-przez-uroczy-Jar-Raduni-imp382350.html#fb_id:0,pozycja:129838]
+
 Rys.1. Trasa wędrówki.
 
+Radunia to jedna z wielu malowniczych rzek na Kaszubach. 
+W swoim biegu rzeka płynie poprzez równiny, lasy, czy malownicze doliny. 
+W Przełomie Babidolskim, Radunia ma też cechy rzeki o charakterze podgórskim. 
+To właśnie na tym odcinku występuje rezerwat przyrody – Jar Raduni. 
+Obszar ten objęty jest ochroną przyrody na terytorium Unii Europejskiej, w ramach projektu Natura 2000. 
+W okreslonych miejscach moża wybrac sie na piesze wędrówki lub popłynąć kajakiem.
 
-== To miejsce zostało przedstwaione w wielu kartach, w zależności od zainteresowań i potrzeb
+
+== To miejsce zostało zaprezentowane na wielu kartach, w zależności od zainteresowań i potrzeb czytelnika
+
+* [x] <https://pl.wikipedia.org/wiki/Radunia_(rzeka)>
 
 * [x] <https://pl.wikipedia.org/wiki/Jar_Rzeki_Raduni>
 
 * [x] <https://www.traseo.pl/trasa/wedrowka-przez-jar-rzeki-raduni>
 
-* [x] <http://magazynkaszuby.pl/2016/06/jar-raduni-przeturlanki-gorskim-szlaku/l>
+* [x] <http://www.diablisciek.cba.pl/radunia_-_opis_rzeki.html>
 
 
 == Wiadomości ogólne
 
-Długość rzeki – 103,2 km.
+** Długość rzeki – 103,2 km.
 
 ** Powierzchnia zlewni 837 km.
 
@@ -25,15 +36,16 @@ Długość rzeki – 103,2 km.
 ** Rzeka wpada do Motławy nieopodal miejscowości Krępiec.
 
 
-== Ludność Gdyni w liczbach  
-
+== Trochę faktów z historii  
+** W latach 1807 – 1814 Radunia stanowiła na trzech różnych odcinkach granicę Wolnego Miasta Gdańska:
 |===
-| Wyszczególnienie	|  na dzień 30 VI 2017
-| Ludność ogółem	| 246 643
-| mężczyźni | 116 517
-| kobiety | 130 126
+| W okolicy miejscowości Niestępowo	|  na długości ok. 2 km
+| Między miejscowościami Widlino i Straszyn	| na długości ok. 17 km.
+| Na wysokości miejscowości Juszkowo | na długości ok. 1 km.
+|
 |===
-Tabela. 1. Ludność Gdyni
+Tabela. 1. Długość granicy wzdłuż rzeki Raduni
+**  W latach 1920 – 1939 w środkowym biegu rzeki poniżej miejscowości Niestępowo w poprzek rzeki przechodziła granica między Wolnym Miastem Gdańsk a II Rzecząpospolitą.
 
 
 == Dzielnice Gdyni
