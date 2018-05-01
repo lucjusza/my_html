@@ -97,17 +97,16 @@ Tabela. 1. Długość granicy Wolnego Miasta Gdańska wzdłuż rzeki Raduni
 == Elektrownie wodne na Raduni
 
 |===
-| NAZWA MIEJSCOWOSCI | ROK POWSTANIA | SPAD WODY
-| Rutki 448 kW |  1910 r.	|  12,20 m
-| Łapino 2294 kW | 1927 r., z jazem burzowym)	| 13,80 m
-| Na wysokości miejscowości Juszkowo | na długości ok. 1 km.
-| Bielkowo 7200 kW (z 1924-5 r.) | spad wody 44,80 m
-| Straszyn 2411 kW (najstarsza, z października 1910 r.) | spad wody 13,80 m
-| Prędzieszyn 872 kW (z 1937 r.) | spad wody 4,50 m
-| Kuźnice 781-785 kW (z 1934 r.) | spad wody 4,21 m
-| Juszkowo 232-250 kW (z 1937 r.) | spad wody 4,25 m
-| Pruszcz I 100 kW (z 1921 r.) | spad wody 6,90 m
-| Pruszcz II 250 kW (z 2005 r.) |  spad wody 5,56 m
+| NAZWA MIEJSCOWOSCI | MOC| ROK POWSTANIA | SPAD WODY
+| Rutki | 448 kW | 1910 r.	| 12,20 m
+| Łapino | 2294 kW | 1927 r., z jazem burzowym)	| 13,80 m
+| Bielkowo | 7200 kW | 1924-5 r.| 44,80 m
+| Straszyn | 2411 kW | najstarsza, z października 1910 r. | 13,80 m
+| Prędzieszyn | 872 kW | 1937 r. | 4,50 m
+| Kuźnice | 781-785 kW | 1934 r. | 4,21 m
+| Juszkowo | 232-250 kW | 1937 r. | 4,25 m
+| Pruszcz I | 100 kW | 1921 r.| 6,90 m
+| Pruszcz II | 250 kW | 2005 r. | 5,56 m
 |===
 Tabela. 2. Elektrownie wodne na rzece Radunia
 
