@@ -122,7 +122,7 @@ Tabela. 2. Elektrownie wodne na rzece Radunia
 == Kilka fotek na zachętę:
 
 
-image::pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Radunia_001PL.jpg[pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Radunia_001PL.jpg,600]
-image::https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/100_7253.jpg[https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/100_7253.jpg,600]
-image::https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/IMG_7412.JPG
-
+image::
+image::https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/100_7253.jpg[https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/100_7253.jpg,300]
+image::https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/IMG_7412.JPG[https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/IMG_7412.JPG,300]
+image::https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/IMG_4237.JPG[https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/IMG_4237.JPG,300]
