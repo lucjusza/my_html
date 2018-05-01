@@ -97,6 +97,7 @@ Tabela. 1. Długość granicy Wolnego Miasta Gdańska wzdłuż rzeki Raduni
 == Elektrownie wodne na Raduni
 
 |===
+| NAZWA MIEJSCOWOSCI | ROK POWSTANIA | SPAD WODY
 | Rutki 448 kW (z 1910 r.	|  spad wody 12,20 m
 | Łapino 2294 kW (z 1927 r., z jazem burzowym)	| spad wody 13,80 m
 | Na wysokości miejscowości Juszkowo | na długości ok. 1 km.
