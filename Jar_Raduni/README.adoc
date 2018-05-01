@@ -1,26 +1,29 @@
 
-= _NAD BRZEGIEM RADUNI !!!_      
+= _NAD BRZEGIEM RADUNI ..._      
+
 ** (W języku kaszubskim-  Reduniô.)
 
 image::sport.trojmiasto.pl/Zwawa-wedrowka-przez-uroczy-Jar-Raduni-imp382350.html#fb_id:0,pozycja:129838]
 
 Rys.1. Trasa wędrówki.
 
-Radunia to jedna z wielu malowniczych rzek na Kaszubach. 
 
-W swoim biegu rzeka płynie poprzez równiny, lasy, czy malownicze doliny. 
+*** Radunia to jedna z wielu malowniczych rzek na Kaszubach. 
 
-W Przełomie Babidolskim, Radunia ma też cechy rzeki o charakterze podgórskim. 
+*** W swoim biegu rzeka płynie poprzez równiny, lasy, czy malownicze doliny. 
 
-To właśnie na tym odcinku występuje rezerwat przyrody – Jar Raduni. 
+*** W Przełomie Babidolskim, Radunia ma też cechy rzeki o charakterze podgórskim. 
 
-Obszar ten objęty jest ochroną przyrody na terytorium Unii Europejskiej, w ramach projektu Natura 2000. 
+***To właśnie na tym odcinku występuje rezerwat przyrody – Jar Raduni. 
 
-W okreslonych miejscach moża wybrac sie na piesze wędrówki lub popłynąć kajakiem.
+*** Obszar ten objęty jest ochroną przyrody na terytorium Unii Europejskiej, w ramach projektu Natura 2000. 
+
+*** W okreslonych miejscach moża wybrac sie na piesze wędrówki lub popłynąć kajakiem.
 
 
-== To miejsce zostało zaprezentowane na wielu kartach, 
-w zależności od zainteresowań i potrzeb czytelnika
+
+== To miejsce zostało zaprezentowane na wielu kartach
+(W zależności od zainteresowań i potrzeb czytelnika)
 
 * [x] <https://pl.wikipedia.org/wiki/Radunia_(rzeka)>
 
@@ -29,6 +32,8 @@ w zależności od zainteresowań i potrzeb czytelnika
 * [x] <https://www.traseo.pl/trasa/wedrowka-przez-jar-rzeki-raduni>
 
 * [x] <http://www.diablisciek.cba.pl/radunia_-_opis_rzeki.html>
+
+
 
 
 == Wiadomości ogólne
@@ -40,6 +45,8 @@ w zależności od zainteresowań i potrzeb czytelnika
 ** Źródło wypływa niedaleko Jeziora Stężyckiego.
 
 ** Rzeka wpada do Motławy nieopodal miejscowości Krępiec.
+
+
 
 
 == Trochę faktów z historii  
@@ -55,6 +62,7 @@ Tabela. 1. Długość granicy Wolnego Miasta Gdańska wzdłuż rzeki Raduni
 
 
 **  W latach 1920 – 1939 w środkowym biegu rzeki poniżej miejscowości Niestępowo w poprzek rzeki przechodziła granica między Wolnym Miastem Gdańsk a II Rzecząpospolitą.
+
 
 
 
@@ -99,9 +107,9 @@ Tabela. 1. Długość granicy Wolnego Miasta Gdańska wzdłuż rzeki Raduni
 |===
 | NAZWA MIEJSCOWOSCI | MOC| ROK POWSTANIA | SPAD WODY
 | Rutki | 448 kW | 1910 r.	| 12,20 m
-| Łapino | 2294 kW | 1927 r., z jazem burzowym)	| 13,80 m
-| Bielkowo | 7200 kW | 1924-5 r.| 44,80 m
-| Straszyn | 2411 kW | najstarsza, z października 1910 r. | 13,80 m
+| Łapino | 2294 kW | 1927 r.	| 13,80 m
+| Bielkowo | 7200 kW | 1924-25 r.| 44,80 m
+| Straszyn | 2411 kW | 1910 r. | 13,80 m
 | Prędzieszyn | 872 kW | 1937 r. | 4,50 m
 | Kuźnice | 781-785 kW | 1934 r. | 4,21 m
 | Juszkowo | 232-250 kW | 1937 r. | 4,25 m
@@ -114,7 +122,7 @@ Tabela. 2. Elektrownie wodne na rzece Radunia
 == Kilka fotek na zachętę:
 
 
-image::pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Radunia_001PL.jpg[logo-Gdynia,600]
+image::pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Radunia_001PL.jpg[pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Radunia_001PL.jpg,600]
 image::pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Krępiec_ujście_Raduni_do_Motławy.jpg[logo-Gdynia,600]
 image::www.facebook.com/photo.php?fbid=1072432852775018&set=pb.100000249413511.-2207520000.1525151186.&type=3&theater
 
