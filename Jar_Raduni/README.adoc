@@ -123,6 +123,6 @@ Tabela. 2. Elektrownie wodne na rzece Radunia
 
 
 image::pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Radunia_001PL.jpg[pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Radunia_001PL.jpg,600]
-image::pl.wikipedia.org/wiki/Radunia_(rzeka)#/media/File:Krępiec_ujście_Raduni_do_Motławy.jpg[logo-Gdynia,600]
-image::www.facebook.com/photo.php?fbid=1072432852775018&set=pb.100000249413511.-2207520000.1525151186.&type=3&theater
+image::https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/100_7253.jpg[https://github.com/lucjusza/my_html/blob/master/Jar_Raduni/100_7253.jpg,600]
+image::
 
